@@ -66,7 +66,7 @@ export default function Home() {
           padding: '4rem 0',
         }}>
       <h1 className="hero-title">The Pegasus</h1>
-      <p className='lead'>Salone online booking</p>
+      <p className='lead'>Salon online booking</p>
       <div className='d-flex justify-content-center mt-3' id='Appointment'>
         <input type="text" className='form-control w-25' placeholder='Search services...' />
       </div>

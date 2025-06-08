@@ -1,0 +1,15 @@
+body {
+  background-color: white;
+  
+}
+
+img {
+  width: 100px;
+  margin-left: 10px;
+}
+
+.hero-title {
+  font-family: 'Great Vibes', cursive;
+  font-size: 6rem;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+}
